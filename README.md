@@ -28,3 +28,7 @@ BBC News dataset — 2225 articles across 5 categories
 Classical ML needs labeled data but gives high accuracy.
 Modern zero-shot needs no training but works with any categories.
 Fine-tuned transformers (coming next) give the best of both worlds.
+
+ 🚀 Live Demo
+ [Try the app here](https://news-analyzer-haseeb.streamlit.app)
+
